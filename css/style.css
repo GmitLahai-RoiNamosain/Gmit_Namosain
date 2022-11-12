@@ -496,7 +496,8 @@ a.navbar-brand {
   display: none;
 }
 .img-responsive {
-  max-width: 100%;
+  max-width: 150%;
+  height: 300px;
 }
 .slide_text h3 {
   font-size: 50px;
